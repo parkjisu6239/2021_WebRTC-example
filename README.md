@@ -16,3 +16,17 @@
 
 실행 URL 👉 : [💻](https://parkjisu6239.github.io/2021_WebRTC-example/01_Output_video_to_the_screen/basic01)
 
+
+
+
+
+
+
+### 2. [화면 공유 및 미디어 제약](https://github.com/parkjisu6239/2021_WebRTC-example/tree/master/02_Media_Capture_and_Constraints)
+
+가이드 : [📕](https://webrtc.org/getting-started/media-capture-and-constraints)
+
+블로그 : [🧡](https://z-watermelon-coding-log.tistory.com/37)
+
+실행 URL 👉 : [💻](https://parkjisu6239.github.io/2021_WebRTC-example/02_Media_Capture_and_Constraints/basic01)
+

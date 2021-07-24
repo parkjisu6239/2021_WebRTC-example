@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            margin: 0px;
+        }
+
+        #localVideo {
+            position: fixed;
+            top: calc(1080px - 240px);
+            left: 0px
+
+        }
+    </style>
+</head>
+<body>
+    <video id="localShareVideo" autoplay playsinline controls="false"></video>
+    <video id="localVideo" autoplay playsinline controls="false"></video>
+    <select name="" id="availableCameras"></select>
+    <script src="./basic01.js"></script>
+</body>
+</html>
