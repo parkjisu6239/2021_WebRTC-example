@@ -4,19 +4,15 @@
 
 이곳에는 예제 코드로 구현한 내용이 정리되어 있습니다. WebRTC의 개념은 [여기](https://z-watermelon-coding-log.tistory.com/35?category=997087)를 확인해주세요
 
-
-
 아래 튜토리얼은 [WebRTC 공식문서의 가이드](https://webrtc.org/getting-started/overview)를 따르고 있습니다.
 
 
 
-### 1. 미디어 장치 시작하기
+### 1. [미디어 장치 시작하기](https://github.com/parkjisu6239/2021_WebRTC-example/tree/master/01_Output_video_to_the_screen)
 
-가이드 : https://webrtc.org/getting-started/media-devices
+가이드 : [📕](https://webrtc.org/getting-started/media-devices)
 
-블로그 : 
+블로그 : [🧡](https://z-watermelon-coding-log.tistory.com/36)
 
-내 코드 👉 : 
-
-실행 URL 👉 :
+실행 URL 👉 : [💻](https://parkjisu6239.github.io/2021_WebRTC-example/01_Output_video_to_the_screen/basic01)
 
